@@ -1,3 +1,2 @@
 .vscode/
-src/commands/newcs.c++
-src/commands/newcs.h++
+.DS_Store
