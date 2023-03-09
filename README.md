@@ -20,7 +20,7 @@ Add a case for your command name in the method "getCommand()" and then return yo
 Step 6.
 Add a case for your commands enum in the switch statement.
 
-Step 6 1/2.
+Step 6 & 1/2.
 Add logic for making sure you have the right ammount of arguments
 
 Step 7.
