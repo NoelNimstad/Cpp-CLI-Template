@@ -1,0 +1,3 @@
+.vscode/
+src/commands/newcs.c++
+src/commands/newcs.h++
