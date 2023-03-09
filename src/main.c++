@@ -12,7 +12,7 @@ enum command
 
 command getCommand(std::string & input)
 {
-    if(input == "Example") return Example;
+    if(input == "example") return Example;
     return Invalid;
 }
 
